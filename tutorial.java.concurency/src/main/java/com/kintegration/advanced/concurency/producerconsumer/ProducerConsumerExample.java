@@ -1,4 +1,4 @@
-package com.kintegration.tutorial.java.concurency.producerconsumer;
+package com.kintegration.advanced.concurency.producerconsumer;
 
 public class ProducerConsumerExample {
 

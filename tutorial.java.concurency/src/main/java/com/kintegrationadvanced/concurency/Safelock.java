@@ -1,4 +1,4 @@
-package com.kintegration.tutorial.java.concurency;
+package com.kintegrationadvanced.concurency;
 
 import java.util.Random;
 import java.util.concurrent.locks.Lock;

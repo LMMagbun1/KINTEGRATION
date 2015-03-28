@@ -1,4 +1,4 @@
-package com.kintegration.tutorial.java.concurency;
+package com.kintegrationadvanced.concurency;
 
 public class SleeepMessages {
 

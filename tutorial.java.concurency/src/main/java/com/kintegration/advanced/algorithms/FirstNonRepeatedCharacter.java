@@ -1,4 +1,4 @@
-package com.kintegration.tutorial.java.algorithms;
+package com.kintegration.advanced.algorithms;
 
 import java.util.HashMap;
 import java.util.Map;
